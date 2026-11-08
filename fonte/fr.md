@@ -17,7 +17,7 @@ PicBinder est développé par Alexandre Ferreira, au Brésil. Contact : picbinde
 - **Notifications :** uniquement pour afficher la progression de la sauvegarde.
 
 ## Achats (PicBinder Pro)
-Les abonnements et l’achat à vie sont traités par Google Play. Le paiement est fait à Google ; le développeur ne reçoit pas les données de votre carte. Google transmet au développeur les informations de commande (numéro de commande, produit, date et pays, par exemple), utilisées uniquement pour l’assistance et les obligations fiscales.
+Les abonnements sont traités par Google Play. Le paiement est fait à Google ; le développeur ne reçoit pas les données de votre carte. Google transmet au développeur les informations de commande (numéro de commande, produit, date et pays, par exemple), utilisées uniquement pour l’assistance et les obligations fiscales.
 
 ## Ce que nous ne faisons pas
 - Nous ne vendons ni ne partageons de données.

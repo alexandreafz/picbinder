@@ -17,7 +17,7 @@ PicBinder 由 Alexandre Ferreira 在巴西开发。联系方式：picbinder.app@
 - **通知：** 仅用于显示备份进度。
 
 ## 购买（PicBinder Pro）
-订阅和终身购买由 Google Play 处理。付款给 Google；开发者不会收到你的银行卡信息。Google 会向开发者提供订单信息（如订单号、商品、日期和国家/地区），仅用于客户支持和税务义务。
+订阅由 Google Play 处理。付款给 Google；开发者不会收到你的银行卡信息。Google 会向开发者提供订单信息（如订单号、商品、日期和国家/地区），仅用于客户支持和税务义务。
 
 ## 我们不做的事
 - 我们不出售或共享数据。
