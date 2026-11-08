@@ -10,7 +10,7 @@ PicBinder is developed by Alexandre Ferreira, in Brazil. Contact: picbinder.app@
 ## What the app uses and why
 - **Camera:** to take photos, which are saved in the folder you choose on your phone.
 - **Photo folder:** you choose a folder with the Android folder picker; the app accesses only that folder.
-- **Location (optional):** with the pin turned on, GPS coordinates are written inside the photo (EXIF) and, if you want, in a .gpx file next to it. They are not sent to the developer. Note: anyone who receives the original photo file can see where it was taken.
+- **Location (optional):** with the pin turned on, GPS coordinates are written inside the photo (EXIF) and, if you want, in a .gpx file next to it. For this the app asks Android for permission to access photos, and only uses the ones in the folder you chose. They are not sent to the developer. Note: anyone who receives the original photo file can see where it was taken.
 - **Texts and notes:** saved in a .txt file next to the photo, on your phone.
 - **OCR (text recognition):** done on the phone itself by ML Kit, a Google library. The image and the recognized text never leave the device. ML Kit sends Google technical performance and usage metrics about the feature (not the content of your photos), under Google's Privacy Policy.
 - **Google Drive backup (optional):** when you turn it on, you sign in with your Google account and grant access. PicBinder uses Drive's most restricted permission: it can only see the files it created itself. Photos, .txt and .gpx files go straight from your phone to the PicBinder folder in your Drive; the developer has no access to them. You can turn backup off at any time in Settings and remove the authorization at https://myaccount.google.com/permissions
