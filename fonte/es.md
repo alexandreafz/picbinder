@@ -1,5 +1,5 @@
 # Política de privacidad de PicBinder
-_Actualizada el 8 de noviembre de 2026_
+_Actualizada el 13 de noviembre de 2026_
 
 ## Resumen
 PicBinder no recopila datos personales. No hay cuenta, anuncios ni seguimiento. Tus fotos y textos se quedan en tu teléfono y, si activas la copia, en tu propio Google Drive. El desarrollador no recibe ninguno de ellos.
@@ -14,6 +14,7 @@ PicBinder es desarrollado por Alexandre Ferreira, en Brasil. Contacto: picbinder
 - **Textos y notas:** se guardan en un archivo .txt junto a la foto, en tu teléfono.
 - **OCR (reconocimiento de texto):** se hace en el propio teléfono con ML Kit, una biblioteca de Google. La imagen y el texto reconocido no salen del dispositivo. ML Kit envía a Google métricas técnicas de rendimiento y uso de la función (no el contenido de las fotos), según la Política de Privacidad de Google.
 - **Copia en Google Drive (opcional):** al activarla, inicias sesión con tu cuenta de Google y autorizas el acceso. PicBinder usa el permiso más restringido de Drive: solo ve los archivos que él mismo creó. Las fotos, los .txt y los .gpx van directamente de tu teléfono a la carpeta PicBinder de tu Drive; el desarrollador no tiene acceso a ellos. Puedes desactivar la copia en cualquier momento en Ajustes y retirar la autorización en https://myaccount.google.com/permissions
+- **Recuperar de Google Drive:** descarga de vuelta al teléfono los archivos que la propia app subió (fotos, .txt, .gpx y la lista de botones). Nada va del Drive al desarrollador, y no se sobrescribe nada en el teléfono.
 - **Notificaciones:** solo para mostrar el progreso de la copia.
 
 ## Compras (PicBinder Pro)
