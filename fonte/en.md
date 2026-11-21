@@ -1,5 +1,5 @@
 # PicBinder Privacy Policy
-_Last updated: November 13, 2026_
+_Last updated: November 21, 2026_
 
 ## Summary
 PicBinder does not collect personal data. There is no account, no ads and no tracking. Your photos and texts stay on your phone and, if you turn on backup, in your own Google Drive. The developer receives none of them.
@@ -16,6 +16,7 @@ PicBinder is developed by Alexandre Ferreira, in Brazil. Contact: picbinder.app@
 - **Document scanner (scanner mode, optional):** uses Google's document scanner, which runs on the phone itself through Google Play services. The pages and the PDF stay on your device; the pages' text is read by the OCR described above. Google may receive technical usage metrics for the feature, as with OCR.
 - **Google Drive backup (optional):** when you turn it on, you sign in with your Google account and grant access. PicBinder uses Drive's most restricted permission: it can only see the files it created itself. Photos, .txt and .gpx files go straight from your phone to the PicBinder folder in your Drive; the developer has no access to them. You can turn backup off at any time in Settings and remove the authorization at https://myaccount.google.com/permissions
 - **Restore from Google Drive:** downloads back to the phone the files the app itself uploaded (photos, .txt, .gpx and the list of buttons). Nothing goes from Drive to the developer, and nothing on the phone is overwritten.
+- **Clean up Drive (optional):** when you ask for it, moves to your Google Drive trash the backed-up files (photos, PDFs, .txt and .gpx) that you have already deleted from the PicBinder folder on your phone. They stay in the Drive trash for 30 days and can be restored. It only touches files the app itself uploaded.
 - **Notifications:** used only to show backup progress.
 
 ## Purchases (PicBinder Pro)
@@ -28,7 +29,7 @@ Subscriptions are processed by Google Play. Payment is made to Google; the devel
 - We have no server of our own: nothing you do in the app goes through the developer.
 
 ## Retention and deletion
-Your data stays on your device and, if you use backup, in your Google Drive, under your control. Uninstalling the app deletes its settings and button list. Photos and files in your folder and in Drive remain, and you can delete them whenever you want.
+Your data stays on your device and, if you use backup, in your Google Drive, under your control. Uninstalling the app deletes the settings stored in the app. A copy of the button list and settings stays in a hidden file in your photos folder (.pbbotoes), so the buttons come back if you reinstall the app and choose the same folder; you can delete it whenever you want. Photos and files in your folder and in Drive remain, and you can delete them whenever you want.
 
 ## Your rights (GDPR and LGPD)
 Since the developer keeps none of your data, there is nothing to access, correct or delete on our side. For any question, write to picbinder.app@gmail.com. For data processed by Google (account, Drive, Google Play, ML Kit), see https://policies.google.com/privacy

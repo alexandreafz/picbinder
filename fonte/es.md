@@ -1,5 +1,5 @@
 # Política de privacidad de PicBinder
-_Actualizada el 13 de noviembre de 2026_
+_Actualizada el 21 de noviembre de 2026_
 
 ## Resumen
 PicBinder no recopila datos personales. No hay cuenta, anuncios ni seguimiento. Tus fotos y textos se quedan en tu teléfono y, si activas la copia, en tu propio Google Drive. El desarrollador no recibe ninguno de ellos.
@@ -16,6 +16,7 @@ PicBinder es desarrollado por Alexandre Ferreira, en Brasil. Contacto: picbinder
 - **Escáner de documentos (modo escáner, opcional):** usa el escáner de documentos de Google, que funciona en el propio teléfono mediante Google Play services. Las páginas y el PDF se quedan en tu dispositivo; el texto de las páginas lo lee el OCR descrito arriba. Google puede recibir métricas técnicas de uso de la función, como con el OCR.
 - **Copia en Google Drive (opcional):** al activarla, inicias sesión con tu cuenta de Google y autorizas el acceso. PicBinder usa el permiso más restringido de Drive: solo ve los archivos que él mismo creó. Las fotos, los .txt y los .gpx van directamente de tu teléfono a la carpeta PicBinder de tu Drive; el desarrollador no tiene acceso a ellos. Puedes desactivar la copia en cualquier momento en Ajustes y retirar la autorización en https://myaccount.google.com/permissions
 - **Recuperar de Google Drive:** descarga de vuelta al teléfono los archivos que la propia app subió (fotos, .txt, .gpx y la lista de botones). Nada va del Drive al desarrollador, y no se sobrescribe nada en el teléfono.
+- **Limpiar Drive (opcional):** cuando lo pides, envía a la papelera de tu Google Drive los archivos de la copia (fotos, PDF, .txt y .gpx) que ya borraste de la carpeta de PicBinder en el teléfono. Se quedan 30 días en la papelera de Drive y se pueden restaurar. Solo toca los archivos que la propia app subió.
 - **Notificaciones:** solo para mostrar el progreso de la copia.
 
 ## Compras (PicBinder Pro)
@@ -28,7 +29,7 @@ Las suscripciones las procesa Google Play. El pago se hace a Google; el desarrol
 - No tenemos servidor propio: nada de lo que haces en la app pasa por el desarrollador.
 
 ## Conservación y eliminación
-Tus datos se quedan en tu dispositivo y, si usas la copia, en tu Google Drive, bajo tu control. Desinstalar la app borra los ajustes y la lista de botones. Las fotos y archivos de tu carpeta y de Drive se quedan allí, y puedes borrarlos cuando quieras.
+Tus datos se quedan en tu dispositivo y, si usas la copia, en tu Google Drive, bajo tu control. Desinstalar la app borra los ajustes guardados en la app. Una copia de la lista de botones y de los ajustes queda en un archivo oculto de tu carpeta de fotos (.pbbotoes), para que los botones vuelvan si reinstalas la app y eliges la misma carpeta; puedes borrarlo cuando quieras. Las fotos y archivos de tu carpeta y de Drive se quedan allí, y puedes borrarlos cuando quieras.
 
 ## Tus derechos (RGPD y LGPD)
 Como el desarrollador no guarda datos tuyos, no hay nada que consultar, corregir o borrar por nuestra parte. Para cualquier duda, escribe a picbinder.app@gmail.com. Sobre los datos que trata Google (cuenta, Drive, Google Play, ML Kit), consulta https://policies.google.com/privacy

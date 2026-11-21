@@ -1,5 +1,5 @@
 # Datenschutzerklärung von PicBinder
-_Stand: 13. November 2026_
+_Stand: 21. November 2026_
 
 ## Kurzfassung
 PicBinder erhebt keine personenbezogenen Daten. Es gibt kein Konto, keine Werbung und kein Tracking. Ihre Fotos und Texte bleiben auf Ihrem Telefon und, wenn Sie die Sicherung einschalten, in Ihrem eigenen Google Drive. Der Entwickler erhält nichts davon.
@@ -16,6 +16,7 @@ PicBinder wird von Alexandre Ferreira in Brasilien entwickelt. Kontakt: picbinde
 - **Dokumentenscanner (Scannermodus, optional):** nutzt den Dokumentenscanner von Google, der über die Google Play-Dienste auf dem Telefon selbst läuft. Die Seiten und das PDF bleiben auf Ihrem Gerät; der Text der Seiten wird von der oben beschriebenen OCR gelesen. Google kann, wie bei der OCR, technische Nutzungsmetriken der Funktion erhalten.
 - **Sicherung in Google Drive (optional):** Beim Einschalten melden Sie sich mit Ihrem Google-Konto an und erteilen den Zugriff. PicBinder nutzt die am stärksten eingeschränkte Drive-Berechtigung: Die App sieht nur die Dateien, die sie selbst erstellt hat. Fotos, .txt- und .gpx-Dateien gehen direkt von Ihrem Telefon in den Ordner PicBinder Ihres Drive; der Entwickler hat keinen Zugriff darauf. Sie können die Sicherung jederzeit in den Einstellungen ausschalten und die Berechtigung unter https://myaccount.google.com/permissions entziehen.
 - **Aus Google Drive wiederherstellen:** lädt die Dateien, die die App selbst hochgeladen hat (Fotos, .txt, .gpx und die Tastenliste), wieder auf das Telefon. Nichts geht vom Drive an den Entwickler, und auf dem Telefon wird nichts überschrieben.
+- **Drive aufräumen (optional):** verschiebt auf Ihren Wunsch die gesicherten Dateien (Fotos, PDFs, .txt und .gpx), die Sie im PicBinder-Ordner auf dem Telefon bereits gelöscht haben, in den Papierkorb Ihres Google Drive. Dort bleiben sie 30 Tage und können wiederhergestellt werden. Betroffen sind nur Dateien, die die App selbst hochgeladen hat.
 - **Benachrichtigungen:** nur, um den Fortschritt der Sicherung anzuzeigen.
 
 ## Käufe (PicBinder Pro)
@@ -28,7 +29,7 @@ Abos werden über Google Play abgewickelt. Die Zahlung erfolgt an Google; der En
 - Wir haben keinen eigenen Server: Nichts, was Sie in der App tun, läuft über den Entwickler.
 
 ## Speicherung und Löschung
-Ihre Daten bleiben auf Ihrem Gerät und, wenn Sie die Sicherung nutzen, in Ihrem Google Drive, unter Ihrer Kontrolle. Beim Deinstallieren der App werden die Einstellungen und die Liste der Schaltflächen gelöscht. Fotos und Dateien in Ihrem Ordner und in Drive bleiben erhalten, und Sie können sie jederzeit löschen.
+Ihre Daten bleiben auf Ihrem Gerät und, wenn Sie die Sicherung nutzen, in Ihrem Google Drive, unter Ihrer Kontrolle. Beim Deinstallieren der App werden die in der App gespeicherten Einstellungen gelöscht. Eine Kopie der Liste der Schaltflächen und der Einstellungen bleibt in einer versteckten Datei in Ihrem Fotoordner (.pbbotoes), damit die Schaltflächen zurückkommen, wenn Sie die App neu installieren und denselben Ordner wählen; Sie können sie jederzeit löschen. Fotos und Dateien in Ihrem Ordner und in Drive bleiben erhalten, und Sie können sie jederzeit löschen.
 
 ## Ihre Rechte (DSGVO und LGPD)
 Da der Entwickler keine Daten von Ihnen speichert, gibt es auf unserer Seite nichts einzusehen, zu berichtigen oder zu löschen. Bei Fragen schreiben Sie an picbinder.app@gmail.com. Zu den von Google verarbeiteten Daten (Konto, Drive, Google Play, ML Kit) siehe https://policies.google.com/privacy
